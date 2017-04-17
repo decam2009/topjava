@@ -1,8 +1,5 @@
-.idea
-out
-target
-*.iml
-log
-
-
-
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+patch/
+*.md
